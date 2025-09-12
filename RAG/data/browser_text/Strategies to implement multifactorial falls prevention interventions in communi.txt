@@ -1,0 +1,2364 @@
+Strategies to implement multifactorial falls prevention interventions in community-dwelling older persons: a systematic review | Implementation Science | Full Text
+Your privacy, your choice
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media.
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+See our
+privacy policy
+for more information on the use of your personal data.
+Manage preferences
+for further information and to change your choices.
+Accept all cookies
+Skip to main content
+Advertisement
+Strategies to implement multifactorial falls prevention interventions in community-dwelling older persons: a systematic review
+Download PDF
+Download ePub
+Download PDF
+Download ePub
+Systematic review
+Open access
+Published:
+06 February 2023
+Strategies to implement multifactorial falls prevention interventions in community-dwelling older persons: a systematic review
+Sara Vandervelde
+1
+,
+Ellen Vlaeyen
+1
+,
+2
+,
+Bernadette Dierckx de Casterlé
+3
+,
+Johan Flamaing
+4
+,
+5
+,
+Sien Valy
+1
+,
+Julie Meurrens
+1
+,
+Joris Poels
+1
+,
+Margot Himpe
+1
+,
+Goedele Belaen
+1
+&
+…
+Koen Milisen
+ORCID:
+orcid.org/0000-0001-9230-1246
+1
+,
+5
+Show authors
+Implementation Science
+volume
+18
+, Article number:
+4
+(
+2023
+)
+Cite this article
+15k
+Accesses
+36
+Citations
+38
+Altmetric
+Metrics
+details
+Abstract
+Background
+One-third of the community-dwelling older persons fall annually. Guidelines recommend the use of multifactorial falls prevention interventions. However, these interventions are difficult to implement into the community. This systematic review aimed to explore strategies used to implement multifactorial falls prevention interventions into the community.
+Methods
+A systematic search in PubMed (including MEDLINE), CINAHL (EBSCO), Embase, Web of Science (core collection), and Cochrane Library was performed and updated on the 25th of August, 2022. Studies reporting on the evaluation of implementation strategies for multifactorial falls prevention interventions in the community setting were included. Two reviewers independently performed the search, screening, data extraction, and synthesis process (PRISMA flow diagram). The quality of the included reports was appraised by means of a sensitivity analysis, assessing the relevance to the research question and the methodological quality (Mixed Method Appraisal Tool). Implementation strategies were reported according to Proctor et al.’s (2013) guideline for specifying and reporting implementation strategies and the Taxonomy of Behavioral Change Methods of Kok et al. (2016).
+Results
+Twenty-three reports (eighteen studies) met the inclusion criteria, of which fourteen reports scored high and nine moderate on the sensitivity analysis. All studies combined implementation strategies, addressing different determinants. The most frequently used implementation strategies at individual level were “tailoring,” “active learning,” “personalize risk,” “individualization,” “consciousness raising,” and “participation.” At environmental level, the most often described strategies were “technical assistance,” “use of lay health workers, peer education,” “increasing stakeholder influence,” and “forming coalitions.” The included studies did not describe the implementation strategies in detail, and a variety of labels for implementation strategies were used. Twelve studies used implementation theories, models, and frameworks; no studies described neither the use of a determinant framework nor how the implementation strategy targeted influencing factors.
+Conclusions
+This review highlights gaps in the detailed description of implementation strategies and the effective use of implementation frameworks, models, and theories. The review found that studies mainly focused on implementation strategies at the level of the older person and healthcare professional, emphasizing the importance of “tailoring,” “consciousness raising,” and “participation” in the implementation process. Studies describing implementation strategies at the level of the organization, community, and policy/society show that “technical assistance,” “actively involving stakeholders,” and “forming coalitions” are important strategies.
+Trial registration
+PROSPERO CRD42020187450
+Peer Review reports
+Contribution to the literature
+There is still a knowledge gap in how to implement multifactorial falls prevention interventions into clinical practice.
+The implementation strategies most frequently used at individual level were “tailoring,” “active learning,” “personalize risk,” “individualization,” “consciousness raising,” and “participation.”
+The implementation strategies most often mentioned at environmental level were “technical assistance,” “use of lay health workers, peer education,” “increasing stakeholder influence,” and “forming coalitions.”
+The included studies mainly focused on implementation strategies at the level of the older person and healthcare professional.
+This review recommends using taxonomies and reporting guidelines to select and describe implementation strategies.
+Show more
+Background
+Falls are a major problem in community-dwelling older persons due to their prevalence and consequences. One-third of the older persons living at home (65+) fall annually [
+1
+]. Each year, there are 684,000 fatal falls and 37.3 million falls that require medical treatment globally [
+2
+]. With an aging population, these numbers will continue to rise [
+2
+,
+3
+].
+A fall is defined as “an unexpected event in which the older person comes to rest on the ground, floor or lower level” [
+4
+]. Each fall is associated with an increased risk of morbidity and mortality and can often lead to physical (e.g., bruises, lacerations, fractures) and psychosocial (e.g., social isolation, fear of falling, depression) consequences [
+5
+]. In the USA, falls are the leading cause of injury-related death among persons aged 65 and over [
+6
+]. Falls and its related injuries have also a substantial impact on the healthcare cost and the economic burden of society [
+7
+]. Consequently, the implementation of effective falls prevention interventions not only may benefit the older person, but it can also reduce the economic burden of society, as shown in literature [
+8
+].
+Falling is complex, and many factors contribute to its risk (e.g., mobility impairment, medication use, and home hazards) [
+9
+]. Due to this complexity, many guidelines recommend to use multifactorial falls prevention interventions [
+9
+,
+10
+]. These interventions consist of two or more components tailored to the individual fall-risk profile of the older person [
+11
+]. A person older than 65 years is at risk of falling if he or she presents with a fall, reports at least one injurious fall or two or more noninjuries falls, or reports or displays unsteady gait or balance [
+9
+,
+12
+,
+13
+]. An older person with high risk of falling receives an assessment of risk factors, i.e., an evaluation of risk factors. Based on the individual fall-risk profile, the person receives an intervention (e.g., one person can receive exercise in combination with recommendations for home hazards; another person can obtain medication advice and supervised exercise) [
+11
+]. A Cochrane review supports the “efficacy” of those multifactorial falls prevention interventions in the community setting; it can reduce the rate of falls with 23% compared to usual care or attention control (
+RaR
+0.77, 95%
+CI
+0.67 to 0.87) [
+11
+]. Despite the evidence for the efficacy of these interventions, recent pragmatic cluster-randomized controlled trials, exploring the “effectiveness” of multifactorial falls prevention interventions in the community, found that there is no effect on rate of falls, fall-related injuries, and fractures [
+14
+,
+15
+]. It is likely that these differences in results between efficacy and effectiveness testing are due to a poor translation and implementation of multifactorial falls prevention interventions in the community [
+16
+].
+It is key to address important implementation issues such as the barriers and facilitators (determinants) and select suitable strategies at different levels of the context (i.e., older person, healthcare professional, organization, community, policy/society) to implement multifactorial falls prevention interventions in the community setting (i.e., “home or places of residence that do not provide residential health-related care”) [
+11
+,
+17
+,
+18
+]. Currently, research on the implementation of multifactorial falls prevention interventions rarely assesses determinants and derives appropriate implementation strategies (i.e., “a method or technique designed to enhance adoption of a ‘clinical’ intervention”) [
+19
+]. In addition, clear and transparent reporting of implementation strategies is scarce [
+16
+,
+20
+].
+This systematic review aimed to provide an overview of the strategies used to implement multifactorial falls prevention interventions in the community.
+Methods
+The review protocol was designed and reported following the PRISMA 2020 statement [
+21
+]. This protocol was registered in PROSPERO (CRD42020187450) [
+22
+]. The methodology and the main findings of this review were discussed with a multidisciplinary group of 21 stakeholders (e.g., physiotherapists, geriatrician, pharmacist, occupational therapist, registered nurses, policy makers, representatives of older persons, researchers). Purposive sampling was used to compose the stakeholder group (e.g., multidisciplinary group, knowledge about falls prevention, experience with implementation projects in the community). The group met two times to discuss the research question, the included articles, and the results.
+Searches
+The search strategy was developed in collaboration with the Biomedical Library, 2Bergen of the University of Leuven, Belgium. The search strategy consisted of three concepts: “older person,” “falls prevention,” and “community setting” (Additional file
+1
+). The search was performed in five databases: PubMed (including MEDLINE), CINAHL (EBSCO), Embase, Web of Science (core collection), and Cochrane Library. The original search was performed from inception until the 18th of May, 2020. On the 25th of August 2022, the researchers updated the search. One researcher (SAV) removed all duplicates in EndNote™, following the de-duplication method of Bramer et al. (2016) [
+23
+]. Based on the inclusion and exclusion criteria, two independent reviewers (SAV and JP/GB) screened the titles and abstracts of the records. The reviewers discussed potentially relevant records. After discussion, two reviewers (SAV and SIV/GB) independently read and assessed the reports for eligibility. The reviewers once again discussed the selection process. In addition, the reference lists of the reports, systematic reviews, and meta-analysis were independently reviewed by two researchers (SAV and MH/GB). Discrepancies were resolved by consulting the research group (KM, BDdC, EV, and JF). The selection process was performed in the webtool Rayyan™ and mapped following the PRISMA 2020 flow diagram [
+21
+,
+24
+].
+Study inclusion and exclusion criteria
+An overview of the inclusion and exclusion criteria can be found in Table
+1
+. Studies reporting on the evaluation of implementation strategies for multifactorial falls prevention interventions in the community setting were included [
+19
+]. Multiple publications pertaining the same study were taken into account.
+Table 1 Inclusion and exclusion criteria
+Full size table
+Study quality assessment
+Two independent reviewers appraised the included reports on their quality by means of a sensitivity analysis (SAV and MH/JM/GB). This analysis took into account the relevance to the research question and the methodological quality of the reports. Table
+2
+gives an insight in how the sensitivity analysis was assessed. This sensitivity analysis was used to detect reports with a high contribution to the review and high methodological quality, which served as a starting point in the data synthesis (Table
+2
+) [
+25
+,
+26
+].
+Table 2 Results sensitivity analysis
+Full size table
+The research and stakeholder group defined, based on the research question and the experiences of the first screening of the reports, five questions to assess the relevance of the reports:
+(1)
+Is the implementation strategy clearly described?
+(2)
+Is the implementation strategy used in the community?
+(3)
+Is the evaluation of an implementation strategy for multifactorial falls prevention interventions in the community described?
+(4)
+Does the report measure the effectiveness of the implementation strategy?
+(5)
+Does the report explore the experiences with the strategy for the implementation of multifactorial falls prevention interventions?
+Based on these items, the relevance of the included reports was scored low, moderate, or high (Additional file
+2
+).
+The Mixed Method Appraisal Tool (MMAT) was used to assess the methodological quality of the included reports [
+49
+]. The MMAT is designed to appraise methodological quality in systematic mixed studies reviews. The methodological quality of five designs can be appraised: qualitative research, randomized controlled trials, non-randomized studies, quantitative descriptive studies, and mixed methods studies [
+49
+]. The tool starts with two screening questions: [1] Are there clear research questions? and [2] Do the collected data allow to address the research questions? The MMAT indicates that further appraisal is not feasible when the answer is “no” or “cannot tell” on one or both screening questions. After the screening questions, the methodological quality of the included reports was assessed based on the study design. For each study design, five specific criteria needed to be rated. The detailed criteria for each design can be found in additional file
+2
+[
+49
+]. The quality of the included reports was scored low, moderate, or high.
+Data extraction strategy
+Two reviewers (SAV and MH/JM/GB) independently extracted study characteristics as follows: year, citation, country, source of funding, aim, design, setting, recruitment strategy, sample size, methods of investigation, and analysis. The reviewers also collected data on the characteristics of the target population: age, gender, type of healthcare professional, type of patient, family members, and informal caregiver. In addition, information on the implementation strategies, the multifactorial falls prevention interventions, and follow-up were collected. The Template for Intervention Description and Replication checklist (TIDIeR) was used to describe the multifactorial falls prevention interventions and implementation strategies [
+50
+]. All data were compiled in Microsoft Excel™.
+Data synthesis and presentation
+Data were summarized in evidence tables, and a narrative synthesis was performed following the “Guidance on the conduct of Narrative synthesis in Systematic Reviews” [
+51
+]. To improve conceptual clarity and comprehensiveness, two independent researchers (SAV and GB) synthesized for each report the implementation strategies for the different levels of the context (i.e., older person, healthcare professional, organization, community, policy/society) following the Proctor et al.’s (2013) recommendations for specifying and reporting implementation strategies and Kok et al.’s (2016) Taxonomy of Behaviour Change Methods: an Intervention Mapping approach [
+18
+,
+52
+,
+53
+]. The taxonomy of behaviour change methods makes a distinction between behaviour change methods at individual and environmental level [
+53
+]. The individual level corresponds to the older person and healthcare professionals. The organization, community, and policy/society are part of the environmental level of the taxonomy. The classification used in this review conforms to the Intervention Mapping approach [
+18
+]. The taxonomy of behaviour change methods is part of Intervention Mapping, and it is developed by the same authors [
+18
+,
+53
+]. The research group chose to use this taxonomy due to its clear links to theory and determinants of practice for its interventions; it states that a behaviour change method is effective if it meets three conditions: [1] the method needs to target a determinant that predicts behaviour, [2] the method must be able to change the determinant, and [3] the method needs to be translated into a practical application [
+53
+]. In addition, the taxonomy of Per Nilsen was used to categorize the implementation theories, models, and frameworks used in the included reports [
+54
+]. The reviewers discussed the synthesis, and discrepancies were resolved by consulting the research group (KM, BDdC, EV, and JF).
+Results
+The search strategy resulted in a total of 17,407 records, totaling 9280 unique records, after the duplicates were removed. The screening of title and abstract excluded another 9110 records. The full texts of 170 reports were read, of which 83 were found eligible. Eleven additional reports were identified by hand searching fifteen relevant literature reviews and by citation tracking of the eligible reports. In total, 94 reports described the implementation of single, multicomponent, or multifactorial falls prevention interventions. Due to the complexity and the different risk factors that contribute to the risk of falling, the research group and stakeholder group decided to make an amendment to the protocol and to only include reports implementing multifactorial falls prevention interventions. This resulted in the exclusion of 45 reports. After screening the included reports, the researchers and stakeholders noted that some reports (
+n
+= 11) did not describe or evaluate the implementation strategies. Therefore, it was decided to add the following new inclusion criteria to the protocol: the implementation strategies needed to be described, reports exploring the experiences, and perceptions and needs of the target group were only included if it was primary research. In addition, literature showed that education alone is not sufficient for behaviour change [
+55
+]. As a result, an additional exclusion criteria was formulated. Due to the specificity and the complexity of certain diseases like multiple sclerosis, cancer, and cardiovascular diseases, the research group decided not to focus on a specific patient population. Based on all these adaptations, 71 reports were excluded. In total, 23 reports (18 studies) were included in this systematic review [
+17
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+]. A full description of the identification, screening, eligibility, and inclusion process is outlined in the PRISMA 2020 flow diagram (Fig.
+1
+).
+Fig. 1
+PRISMA flow diagram
+Full size image
+Study quality assessment
+The majority of the reports scored high (
+n
+= 18), and five scored moderate on the relevance to the research question. The methodological quality of the reports was in general moderate (
+n
+= 16); four reports scored low and three high. No reports were excluded based on the methodological quality. Based on these ratings, the relative contribution (sensitivity analysis) of the reports could be appraised (Table
+2
+). In total, fourteen reports scored high and nine moderate on the sensitivity analysis. Due to the heterogeneity in terms of study design, setting, multifactorial falls prevention interventions, and implementation strategies and outcomes, the extent to which data could be synthesized was limited. Therefore, the results of the sensitivity analysis could not be taken into account in the data synthesis (i.e., giving more weight to reports with a higher score on relevance to the research question and methodological quality).
+Description of studies
+Table
+3
+gives a description of the included studies and reports. Seven studies (twelve reports) were conducted in Australia [
+27
+,
+28
+,
+29
+,
+30
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+39
+,
+48
+] and seven studies (seven reports) in the USA [
+17
+,
+31
+,
+41
+,
+43
+,
+44
+,
+45
+,
+46
+]. The other studies were performed in Belgium [
+38
+], New Zealand [
+42
+], Iran [
+40
+], and Thailand [
+47
+]. The majority of the reports (
+n
+= 15) were older than 5 years [
+17
+,
+27
+,
+28
+,
+30
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+41
+,
+42
+,
+43
+,
+46
+,
+47
+]. Seven studies took place in different settings; in a combination of community organization, home of the older persons, senior apartment buildings, and senior centers [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+47
+,
+48
+], five studies were performed at the home of the older person [
+30
+,
+32
+,
+38
+,
+39
+,
+42
+], two studies took place in a community or senior center [
+43
+,
+46
+], one in medical practices [
+29
+], and three studies were performed in the community in general [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+], in home health agencies [
+17
+], and in an assisted living community [
+44
+]. In total, eight reports used a mixed method design [
+31
+,
+32
+,
+37
+,
+38
+,
+39
+,
+44
+,
+45
+,
+47
+], six had a qualitative design [
+28
+,
+29
+,
+30
+,
+41
+,
+43
+,
+46
+], three were quantitative descriptive [
+17
+,
+33
+,
+36
+], three were non-randomized controlled trials [
+34
+,
+35
+,
+48
+], and three reports were randomized controlled trials [
+27
+,
+40
+,
+42
+].
+Table 3 Description of included studies
+Full size table
+Description of multifactorial falls prevention interventions
+All included studies implemented multifactorial falls prevention interventions. There is abundant variation in the content and manner in which the multifactorial falls prevention interventions were delivered (e.g., different healthcare professionals involved, supervised versus unsupervised exercise). Table
+3
+gives an overview of the fall risk factors on which the study interventions focused on. All included reports described the evaluation of risk factors (assessment), but only seven reports (seven studies) clearly described screening for fall risk [
+29
+,
+30
+,
+38
+,
+39
+,
+42
+,
+44
+,
+46
+]. All included reports had exercise, medication review/education, and environmental hazards identification/education as part of their intervention. Important fall risk factors such as incontinence, pain, cognitive decline, and fear of falling were often not considered.
+Description of implementation strategies
+The majority of the studies described implementation strategies on multiple levels of the context (i.e., older person, healthcare professional, organization, community, policy/society) (
+n
+= 15) [
+17
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+39
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+]. Renehan et al. (2019), Milisen et al. (2006), and Gholamzadeh et al. (2021) only focused on implementation strategies at the level of the older person [
+32
+,
+38
+,
+40
+]. Six studies (seven reports) reported on “Stepping On,” a multifaceted community-based program using a small group learning environment [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+48
+]. One study explored the use of iSOLVE (Integrated SOLutions for sustainable falls preVEntion), which consisted of a decision tool for GPs with referrals to other healthcare professionals, a stay independent fall checklist, GP fall risk assessment, and a list of recommended, individualized, and tailored falls prevention interventions [
+29
+]. Two studies described a nurse-led multifactorial falls prevention intervention [
+38
+,
+42
+]. One study (five reports) reported on “Stay On your Feet,” a large multi strategic program (e.g., awareness raising, education, policy change) [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+]. Two studies used “Chronic Disease Management” as part of Medicare (formerly Enhanced Primary Care), allowing a general practitioner (GP) to plan and coordinate care for patients with chronic diseases and patients who need multidisciplinary care from a GP and at least two other healthcare professionals [
+30
+,
+39
+]. One study described a posthospital tailored multifactorial falls prevention intervention [
+32
+], and another study reported on a community-based approach [
+47
+]. Four studies described a program that contained external support for implementation (i.e., financial support, support for implementation, and/or training from the research group) [
+17
+,
+43
+,
+44
+,
+46
+]. No studies described taxonomies or guidelines to report their implementation strategies.
+Figure
+2
+gives an overview of the implementation strategies following the “Taxonomy of Behaviour Change Methods; an Intervention Mapping Approach”; a distinction is made between behaviour change methods at individual and environmental level [
+18
+,
+53
+]. Some strategies were not only found at individual level but also at the level of the organization, community, and policy/society. An extensive overview of the implementation strategies used in the included reports can be found in additional file
+3
+.
+Fig. 2
+Implementation strategies
+Full size image
+Individual level
+According to the Taxonomy of Behaviour Change Methods, the implementation strategies identified in the included reports aimed to change the following determinants at individual level: “knowledge,” “awareness and risk perception,” ‘habitual, automatic and impulsive behaviors,” “attitudes, beliefs, outcome expectations,” “social influence,” “skills, capabilities and self-efficacy,” and “public stigma” [
+53
+].
+In total, 26 implementation strategies were identified across eighteen studies (Fig.
+2
+). The most frequently mentioned implementation strategies at individual level were as follows: tailoring (
+n
+= 18), active learning (
+n
+= 17), personalize risk (
+n
+= 16), individualization (
+n
+= 12), consciousness raising (
+n
+= 11), and participation (
+n
+= 10).
+The Taxonomy of Behaviour Change Methods defined
+tailoring
+as
+matching the intervention or components to previously measured characteristics of the participant
+[
+53
+]
+.
+All reports used tailoring [
+17
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+].
+Personalize risk
+entails
+providing information about personal costs or risks of action or inaction with respect to target behavior
+[
+53
+]. Sixteen studies used personalize risk as an implementation strategy [
+17
+,
+27
+,
+28
+,
+30
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+45
+,
+46
+,
+47
+,
+48
+]. Tailoring and personalize risk are crucial parts of multifactorial falls prevention interventions, in which two or more components are tailored to the individual fall risk profile of the older person [
+11
+]. Tailoring was also used at the level of the healthcare professional (
+n
+= 9) (e.g., development of tailored tools like referral pads, screening instruments, and tools to plan falls prevention interventions) [
+27
+,
+28
+,
+29
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+41
+,
+44
+,
+45
+,
+46
+,
+48
+] and by three studies at the level of the organization (e.g., tailored implementation manual) [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+44
+,
+46
+]. Seventeen studies [
+17
+,
+27
+,
+28
+,
+29
+,
+31
+,
+32
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+] described
+active learning (i.e., encouraging learning from goal driven and activity based experience)
+as an implementation strategy [
+53
+]. Active learning was mostly used at the level of the older person and healthcare professionals. Some examples are “Stepping On” [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+48
+], “Stay On Your Feet” [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+], and the “Connecticut Collaboration for Fall Prevention intervention” [
+17
+,
+46
+]. “Stepping On” (
+n
+= 6) used a small group learning environment and incorporated a variety of learning strategies to increase knowledge and competencies (i.e., adult learning principles) [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+48
+]. In “Stay On Your Feet,” active learning was part of the community education in which local people were trained as community educators. In addition, older persons were recruited and trained to fulfill three roles: [1] falls prevention advisors [2], home safety advisors, and [3] medication advisors [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+]. Two studies described the “Connecticut Collaboration for Fall Prevention intervention” that consisted of a multidisciplinary team that trained and encouraged professional behavioral change of healthcare professionals in home health agencies or senior centers [
+17
+,
+46
+]. Six studies did not describe the techniques that were used in the educational part of the programs [
+29
+,
+32
+,
+38
+,
+39
+,
+42
+,
+44
+].
+Individualization
+is defined as
+providing opportunities for learners to have personal questions answered or instructions paced according to their individual progress
+[
+53
+]. Individualization was used in twelve studies at the level of the older person, manifesting in follow-up of recommendations [
+27
+,
+28
+,
+30
+,
+31
+,
+32
+,
+38
+,
+39
+,
+40
+,
+41
+,
+42
+,
+45
+,
+46
+,
+48
+]. In total, eleven studies [
+27
+,
+28
+,
+29
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+40
+,
+41
+,
+45
+,
+46
+,
+47
+,
+48
+] used
+consciousness raising (i.e., providing information, feedback or confrontation about the causes, consequences and alternatives for a problem or a problem behavior)
+as an implementation strategy [
+53
+]. “Stepping On” [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+48
+] and Milisen et al. (2006) [
+38
+] raised consciousness among older persons by using healthcare professionals to inform the older persons about their fall risk factors. Although Kok and colleagues categorized consciousness raising only at the individual level, the intervention was also identified at the levels of the organizations, community, policy/society [
+53
+]. Examples for these levels are “Stay On Your Feet” and the study of Kittipimpanon et al. (2012) [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+47
+]. In “Stay On Your Feet,” mass media strategies (i.e., television advertisement, local newspapers, local radio) were used to increase public interest [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+]. Kittipimpanon and colleagues developed a yearly campaign that consisted of advertisement for their falls prevention program (e.g., polo shirts, stickers) [
+47
+].
+Participation
+is described as ‘assuring high level engagement of the participants’ group in problem-solving, decision-making, and change activities; with highest level being control by the participants’ group [
+53
+]. In total, ten studies described strategies that fit this definition. Participation is mostly used at the level of the older person [
+27
+,
+28
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+38
+,
+40
+,
+41
+,
+45
+,
+46
+,
+47
+,
+48
+]. Participation was an important implementation strategy in “Stepping On” [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+48
+]. “Stepping On” aims to facilitate older persons to take control, assess coping behaviors, and motivate them to integrate falls prevention interventions in their daily life. In Baker et al. (2007) [
+46
+], participation was described at the level of the older person and healthcare professionals. The programs was collectively developed with the older persons and healthcare professionals [
+46
+].
+Environmental level
+According to the Taxonomy of Behaviour Change Methods, the implementation strategies identified in the included reports aimed to change the following determinants on the environmental level: “social norms,” “social support and social networks,” “change organizations,” “change communities,” and “policy” [
+53
+].
+In total, twelve implementation strategies were identified across eighteen studies (Fig.
+2
+). The most frequently mentioned implementation strategies at environmental level were as follows: technical assistance (
+n
+= 14), use of lay health workers, peer education (
+n
+= 10), increasing stakeholders influence (
+n
+= 8), forming coalitions (
+n
+= 8), and participatory problem-solving (
+n
+= 7).
+The Taxonomy of Behaviour Change Methods defined
+technical assistance
+as
+providing technical means to achieve desired behavior
+[
+53
+]. Fourteen studies used technical assistance as an implementation strategy, including training of the program deliverers (actors) and development and dissemination of supportive materials and tools (e.g., handbooks, flyers, assessment tools) [
+17
+,
+27
+,
+28
+,
+29
+,
+30
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+39
+,
+41
+,
+42
+,
+43
+,
+44
+,
+45
+,
+46
+,
+48
+]. In addition, three studies offered financial support to healthcare professionals and older persons [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+39
+,
+43
+]. The strategy
+use of lay health workers and peer education
+(i.e.,
+mobilizing members of the target population to serve as boundary spanners, credible sources of information and role models)
+[
+53
+] had been applied by ten studies [
+17
+,
+27
+,
+28
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+41
+,
+44
+,
+45
+,
+46
+,
+47
+,
+48
+]. “Stepping On” and “Stay On Your Feet” involved older persons in the educational component of their program (e.g., peer coleader, providing training) [
+27
+,
+28
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+40
+,
+41
+,
+45
+,
+48
+]. In “Step by Step,” the researchers recruited nurses, experienced in providing community care, and near age peers with the senior center population, as interventionists [
+46
+]. Kittipimpanon et al. (2012) involved community members (e.g., housewives, members of a senior club) in the program delivery [
+47
+]. In total, eight studies used
+increasing stakeholders influence (i.e., increase stakeholder power, legitimacy, and urgency, often by forming coalitions and using community development and social action to change an organization’s policies)
+[
+53
+] and
+forming coalitions (i.e., forming an alliance among individuals or organizations, during which they cooperate in joint action to reach a goal in their own self-interest)
+[
+53
+] as implementation strategies [
+29
+,
+30
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+39
+,
+43
+,
+44
+,
+46
+,
+47
+]. Middlebrook et al. (2012) and Mackenzie et al. (2020) utilized “chronic disease management” to offer preventive and coordinated care for older persons. General practitioners compiled a multidisciplinary plan, together with occupational therapists and physiotherapists [
+30
+,
+39
+]. Developing effective partnerships and networks was also an important component of “Stay On Your Feet” and the study of Kittipimpanon et al. (2012). The researchers cooperated with health organizations, healthcare professionals, intersectoral organizations, and local councils [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+47
+]. For the development and evaluation of “InSTEP” and “Step by Step,” there was a coalition between centers of expertise in falls prevention, organizations, policy makers, and universities [
+43
+,
+46
+]. Seven studies [
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+41
+,
+43
+,
+44
+,
+46
+,
+47
+] used
+participatory problem-solving
+(i.e., “diagnosing the problem, generating potential solutions, developing priorities, making an action plan and obtaining feedback after implementing the plan”) [
+53
+]. The majority of the studies (
+n
+= 4) that used participatory problem-solving involved stakeholders (e.g., older persons, organizations, policy makers, healthcare professional) to develop, evaluate, and revise their program [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+43
+,
+46
+,
+47
+]. In three studies, the end users were consulted to translate an existing program to their context [
+31
+,
+41
+,
+44
+].
+Additional implementation strategies
+The included studies described additional implementation strategies which could not be categorized according the Taxonomy of Behaviour Change Methods [
+53
+]. Elley et al. (2008) and Milisen et al. (2006) described a nurse-led multifactorial falls prevention intervention where the
+coordination of care
+and follow-up was done by one person, a registered nurse [
+38
+,
+42
+]. In the two studies using
+chronic disease management
+, the program was set up by the Australian government allowing older persons, with multiple health problems that require multidisciplinary care, to have five Medicare funded allied health services per year [
+30
+,
+39
+].
+Implementation theories, models, and frameworks
+Twelve studies used theories, models, or frameworks to develop or evaluate the programs (see Table
+4
+) [
+17
+,
+27
+,
+28
+,
+29
+,
+31
+,
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+40
+,
+41
+,
+43
+,
+45
+,
+46
+,
+47
+,
+48
+]. First, several classic theories that originate from different fields (e.g., psychology, sociology) were identified. To increase knowledge, “Stepping On” used adult education principles [
+56
+], and “InSTEP” used the extended parallel process model [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+43
+,
+45
+,
+48
+,
+65
+]. In addition, “Stepping On” [
+27
+,
+28
+,
+31
+,
+40
+,
+41
+,
+45
+,
+48
+] used the self-efficacy theory of Bandura [
+57
+] and the decision-making process of Janis and Mann [
+58
+]. Three studies [
+17
+,
+29
+,
+46
+] used the transtheoretical model of Prochaska [
+63
+], and Kittipimpanon et al. (2012) used the Appreciation-Influence-Control Technique [
+67
+] in a workshop to involve stakeholders [
+47
+]. Next, the process models describe the different stages in the translation of research into practice. In this systematic review, three process models were identified: the Ottawa Charter for Health promotion (WHO) [
+33
+,
+34
+,
+35
+,
+36
+,
+37
+,
+62
+], the plan-do-study-act cycle [
+46
+,
+66
+], and the knowledge-to-action framework [
+29
+,
+59
+]. In addition, two studies used an implementation theory. In the study of Fortinsky et al. (2008), the innovation dissemination theory of Berwick [
+64
+] was used to achieve organizational change [
+17
+]. In the iSOLVE project, the Behaviour Change Wheel and normalization process theory were used as implementation theories [
+29
+,
+60
+,
+61
+]. The PRECEDE–PROCEED framework [
+68
+] was identified in one study and can be categorized as an evaluation framework [
+47
+]. In addition, Mora Pinzon et al. [
+31
+] used the RE-AIM framework [
+69
+], and Mahoney et al. [
+41
+] used a root cause analysis to evaluate the implementation project. Lastly, no determinant frameworks were described in the included studies.
+Table 4 Implementation theories, models, and framework (taxonomy Per Nilsen) [
+54
+]
+Full size table
+Discussion
+Eighteen studies (twenty-three reports) evaluating strategies for the implementation of multifactorial falls prevention interventions in community-dwelling older persons were included in this review. Unlike previous research, this review did not focus on the effectiveness of the falls prevention interventions [
+11
+]. It focused on the inconsistency between efficacy and effectiveness testing by gaining insight into how multifactorial falls prevention interventions were currently translated into clinical practice. We explored the strategies used to implement multifactorial falls prevention interventions in the community and provided a synthesis of the implementation strategies following the “Taxonomy of Behaviour Change Methods; an Intervention Mapping Approach” [
+53
+].
+The majority of the studies described implementation strategies on multiple levels of the context (i.e., older person, healthcare professional, organization, community, policy/society). It is remarkable that implementation strategies were mainly described at the level of the older person and healthcare professional (i.e., individual level). At individual level, we notice that combining tailored implementation strategies, active involvement, and participation are often used to implement multifactorial falls prevention interventions. At the level of the organization, community, and policy/society (i.e., environmental level), it is recognizable that technical assistance and stakeholder involvement are key implementation strategies. Furthermore, this systematic review highlights two key findings.
+First, we found that the majority of the studies did not describe the multifactorial falls prevention intervention, implementation strategies, and development of the programs in detail. The included studies used a variety of labels for implementation strategies and lacked operational definitions, increasing the difficulty to gain full insight into the underlying mechanisms of actions for behaviour change [
+52
+,
+53
+]. No studies described the use of taxonomies or reporting guidelines. To improve the reporting of the content of behaviour change strategies, it is advised to use guidelines (e.g., Proctor et al.’s recommendations for specifying and reporting implementation strategies, the Standards for Reporting Implementation Studies (StaRI) Statement, or the Workgroup for Intervention Development and Evaluation Research (WIDER)) [
+52
+,
+70
+,
+71
+,
+72
+]. In addition, for conceptual clarity, it is emphasized to use a taxonomy such as the Taxonomy of Behaviour Change Methods, the Expert Recommendations for Implementing Change (ERIC), the Behavior Change Technique Taxonomy, or the Behaviour Change Wheel, to label implementation strategies [
+52
+,
+53
+,
+73
+,
+74
+,
+75
+]. In this review, the Taxonomy of Behaviour Change Methods of Kok and colleagues was used, due to its clear links to theory and determinants of practice for its interventions [
+53
+]. However, we found that the taxonomy did not give a complete overview of implementation strategies. Additional strategies were identified such as “coordination of care” and “support by the government.” There was also no fit with other taxonomies (e.g., Expert Recommendations for Implementing Change (ERIC), the Behavior Change Technique Taxonomy, the Behaviour Change Wheel, EPOC Taxonomy) [
+52
+,
+53
+,
+73
+,
+74
+,
+75
+,
+76
+]. In addition, we also found that the distinction between individual and environmental level, made in the Taxonomy of Behaviour Change Methods, was often too strict. As mentioned in the results, some strategies were not only found at individual level but also at the level of the organization, community, policy/society (e.g., belief selection, persuasive communication, active learning, tailoring, consciousness raising, and repeated exposure) [
+53
+]. The same remark can be made for the strategies on environmental level. They were also found at the level of the older person and healthcare professional (e.g., technical assistance, use of lay health workers, peer education, increasing stakeholder influence). It can be questioned if the distinction between strategies at individual and environmental level is necessary. Other taxonomies with a clear link to theory and determinants such as the Behavior Change Technique Taxonomy do not make such a distinction.
+The second key finding is that solely twelve studies used implementation theories, models, and frameworks, and no studies described neither the use of a determinant framework (e.g., TICD checklist, CFIR) nor how the implementation strategy targeted influencing factors. We also found that the twelve studies that used implementation theories, models, or frameworks for program development did not clearly described how the theories were translated in practical applications in a way that maintained the active mechanisms for effectiveness [
+77
+,
+78
+]. Studies show that there is a great value in effectively using implementation frameworks, models, and theories [
+53
+,
+54
+,
+79
+]. They can provide a uniform language and inform theoretical thinking and the design, conduct, and evaluation of studies. Implementation theories have directional relationships between determinants; therefore, they can guide what can or cannot work. Suboptimal use of implementation frameworks, models, and theories can impact the success of the implementation efforts, resulting in wasted resources, development of inappropriate implementation strategies, and wrong conclusions [
+53
+,
+54
+,
+79
+]. A systematic review on the use of theory in the design of implementation strategies concluded that only 22.5% of the included studies used theories [
+80
+]. Mixed results in implementation studies are often attributed to either limited or no theoretical underpinning [
+54
+]. Implementation is a dynamic and context-specific process. Each level of the context demands individual tailoring of implementation strategies. Therefore, assessment of influencing factors by means of a determinant framework is crucial, including using the results to select suitable theories and adapt implementation strategies for the specific context [
+53
+,
+54
+,
+79
+]. An example of a systematic approach to plan a health promotion program is the study of Vandervelde et al. (2021) on reducing the use of physical restraints in home care. The authors developed and evaluated a multicomponent program to support the implementation of a guideline [
+81
+]. By using intervention mapping, they ensured that the program was theoretical, empirical, and practical grounded. During this process, the authors obtained insight into the problem, the behaviour of healthcare professionals, the environment, and the determinants. Together with a stakeholder group, the authors selected theory and evidence-based methods to influence selected determinants; those methods were translated into practical applications (e.g., flyer, tutorials, ambassador for restraint-free home care) [
+81
+]. This review found that in falls prevention research, there is still a gap in the detailed description of implementation strategies and the effective use of implementation frameworks, models, and theories, making it difficult to know what does and does not work and to compare and replicate studies.
+An important strength is the methodological rigor in which this systematic review was carried out. After all, a comprehensive search strategy was developed in close collaboration with experts of the biomedical library of the university. In addition, during this whole process, the PRISMA statement was followed [
+21
+]. A narrative synthesis was performed following the “Guidance on the conduct of Narrative synthesis in Systematic Reviews.” Next, the methods and results of this review were discussed with a group of 21 stakeholders. The stakeholder group recognized the study findings and supported the identified implementation strategies (e.g., tailoring, personalize risk, active learning, consciousness raising). Lastly, this review followed the Proctor et al.’s (2013) recommendations for specifying and reporting implementation strategies and the Taxonomy of Behavioral Change Methods [
+52
+,
+53
+]. In addition, TIDIeR was used to extract data on the multifactorial falls prevention interventions and implementation strategies, and the taxonomy of Per Nilsen was used to categorize the implementation theories, models, and frameworks [
+50
+,
+54
+]. As already mentioned, the use of guidelines and taxonomies improves conceptual clarity, comprehensiveness, and study replication [
+20
+].
+This review has some limitations. Despite a comprehensive search strategy, we did identify additional studies from reference lists of systematic reviews and included reports (see Fig.
+1
+). A possible explanation is that we did not search for gray literature, and we did not perform forward snowballing. It is possible that studies were missed. Another limitation is the possibility of publication bias. It is likely that studies with negative results were not published. Lastly, heterogeneity was high in terms of study design, setting, multifactorial falls prevention interventions, implementation strategies, and outcomes. This heterogeneity limited the extent to which data could be synthesized. In addition, the level of description of the implementation strategies used in the reports was poor. This has complicated the categorization of implementation strategies following the Taxonomy of Behaviour Change Methods [
+53
+]. To impede this limitation, two researchers categorized the implementations strategies independently. Due to the heterogeneity, we could not take the results of the sensitivity analysis into account in the data synthesis (i.e., giving more weight to reports with a higher score on relevance to the research question and methodological quality).
+Conclusions
+This systematic review highlights gaps in the detailed description of implementation strategies and the effective use of implementation frameworks, models, and theories; this can be resolved by using reporting guidelines and taxonomies. In addition, the review found that studies mainly focused on implementation strategies at the level of the older person and healthcare professional. These studies emphasize the importance of tailoring, consciousness raising, and participation in the implementation process of multifactorial falls prevention interventions. Studies using implementation strategies at the level of the organization, community, and policy/society show that technical assistance, actively involving stakeholders and forming coalitions, are important strategies.
+Availability of data and materials
+All data generated or analyzed during this study are included in this published article and its additional files.
+Abbreviations
+GP:
+General practitioner
+MMAT:
+Mixed Method Appraisal Tool
+TIDIeR:
+Template for Intervention Description and Replication checklist
+ESRC:
+Economic and Social Research Council
+iSOLVE:
+Integrated SOLutions for sustainable falls prevention
+CCFP:
+Connecticut Collaboration for Fall Prevention
+StaRI:
+Standards for Reporting Implementation Studies
+WIDER:
+Workgroup for Intervention Development and Evaluation Research
+MeSH:
+Medical Subject Headings
+References
+Milisen K, Detroch E, Bellens K, Braes T, Dierckx K, Smeulders W, et al. Valincidenten bij thuiswonende ouderen: een pilootstudie naar prevalentie, omstandigheden en gevolgen in Vlaanderen. Tijdschrift voor gerontologie en geriatrie. 2004;35:15–20.
+Google Scholar
+World Health Organization. Falls Available from:
+https://www.who.int/news-room/fact-sheets/detail/falls2018
+. Accessed 7 Feb 2021.
+World Health Organization. Ageing and health Available from:
+https://www.who.int/news-room/fact-sheets/detail/ageing-and-health2018
+. Accessed 7 Feb 2021.
+Lamb SE, Jorstad-Stein EC, Hauer K, Becker C. Development of a common outcome data set for fall injury prevention trials: the Prevention of falls network Europe consensus. J Am Geriatr Soc. 2005;53(9):1618–22.
+https://doi.org/10.1111/j.1532-5415.2005.53455.x
+.
+Article
+Google Scholar
+Kannus P, Sievänen H, Palvanen M, Järvinen T, Parkkari J. Prevention of falls and consequent injuries in elderly people. Lancet. 2005;366(9500):1885–93.
+https://doi.org/10.1016/s0140-6736(05)67604-0
+.
+Article
+Google Scholar
+Centers for Disease Control and Prevention. Deaths from falls among persons aged 65 years - United States, 2007-2016 Available from:
+https://www.cdc.gov/mmwr/volumes/67/wr/mm6718a1.htm2018
+. Accessed 7 Feb 2021.
+Florence CS, Bergen G, Atherly A, Burns E, Stevens J, Drake C. Medical costs of fatal and nonfatal falls in older adults. J Am Geriatr Soc. 2018;66(4):693–8.
+https://doi.org/10.1111/jgs.15304
+.
+Article
+Google Scholar
+Olij BF, Ophuis RH, Polinder S, van Beeck EF, Burdorf A, Panneman MJM, et al. Economic evaluations of falls prevention programs for older adults: a systematic review. J Am Geriatr Soc. 2018;66(11):2197–204.
+https://doi.org/10.1111/jgs.15578
+.
+Article
+Google Scholar
+Milisen K, Leysens G, Vanaken D, Poels J, Vlaeyen E, Janssens E, et al. Vlaamse richtlijn ‘Valpreventie bij thuiswonende ouderen’. www.valpreventie.be, Leuven and www.ebmpracticenet.be, Antwerpen; 2017.
+National Institute for Health and Care Excellence. Falls in older people: assessing risk and prevention Clinical guideline. 2013.
+Google Scholar
+Hopewell S, Adedire O, Copsey BJ, Boniface GJ, Sherrington C, Clemson L, et al. Multifactorial and multiple component interventions for preventing falls in older people living in the community. Cochrane Database Syst Rev. 2018;7:CD012221.
+https://doi.org/10.1002/14651858.CD012221.pub2
+.
+Article
+Google Scholar
+Tinetti ME, Kumar C. The patient who falls: “it’s always a trade-off”. JAMA. 2010;303(3):258–66.
+https://doi.org/10.1001/jama.2009.2024
+.
+Article
+CAS
+Google Scholar
+American Geriatrics Society. AGS/BGS clinical practice guideline: prevention of falls in older persons Available from:
+https://sbgg.org.br/wp-content/uploads/2014/10/2010-AGSBGS-Clinical.pdf2010
+. Accessed 7 Feb 2021.
+Bhasin S, Gill TM, Reuben DB, Latham NK, Ganz DA, Greene EJ, et al. A randomized trial of a multifactorial strategy to prevent serious fall injuries. N Engl J Med. 2020;383(2):129–40.
+https://doi.org/10.1056/NEJMoa2002183
+.
+Article
+Google Scholar
+Lamb SE, Bruce J, Hossain A, Ji C, Longo R, Lall R, et al. Screening and intervention to prevent falls and fractures in older people. N Engl J Med. 2020;383(19):1848–59.
+https://doi.org/10.1056/NEJMoa2001500
+.
+Article
+Google Scholar
+Carpenter CR, Malone ML. Avoiding therapeutic Nihilism from Complex Geriatric Intervention “Negative” Trials: STRIDE Lessons. J Am Geriatr Soc. 2020;68(12):2752–6.
+https://doi.org/10.1111/jgs.16887
+.
+Article
+Google Scholar
+Fortinsky RH, Baker D, Gottschalk M, King M, Trella P, Tinetti ME. Extent of implementation of evidence-based fall prevention practices for older patients in home health care. J Am Geriatr Soc. 2008;56(4):737–43.
+https://doi.org/10.1111/j.1532-5415.2007.01630.x
+.
+Article
+Google Scholar
+Bartholomew LK, Kok G, Ruiter RAC, Fernandez ME, Markham CM. Planning health promotion programs: an intervention mapping approach. 4th ed. Hoboken: Wiley; 2016. p. 70.
+Google Scholar
+Curran GM, Bauer M, Mittman B, Pyne JM, Stetler C. Effectiveness-implementation hybrid designs: combining elements of clinical effectiveness and implementation research to enhance public health impact. Med Care. 2012;50(3):217–26.
+https://doi.org/10.1097/MLR.0b013e3182408812
+.
+Article
+Google Scholar
+Goodwin V, Jones-Hughes T, Thompson-Coon J, Boddy K, Stein K. Implementing the evidence for preventing falls among community-dwelling older people: a systematic review. J Safety Res. 2011;42(6):443–51.
+https://doi.org/10.1016/j.jsr.2011.07.008
+.
+Article
+Google Scholar
+Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71.
+https://doi.org/10.1136/bmj.n71
+.
+Article
+Google Scholar
+Vandervelde S, Vlaeyen E, Dierckx de Casterlé B, Flamaing J, Valy S, Poels J, et al. Strategies to implement fall prevention approaches in home care: a systematic review. 2020. Available from:
+https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020187450
+. PROSPERO. Accessed 7 Feb 2021.
+Google Scholar
+Bramer WM, Giustini D, De Jong GB, Holland L, Bekhuis T. De-duplication of database search results for systematic reviews in endnote. J Med Lib Assoc. 2016;104(3):240–3.
+https://doi.org/10.3163/1536-5050.104.3.014
+.
+Article
+Google Scholar
+Rayyan. What if systematic review took half the time? Available from:
+https://www.rayyan.ai/2021
+. Accessed 7 Feb 2021.
+Degrie L, Gastmans C, Mahieu L, Dierckx de Casterle B, Denier Y. How do ethnic minority patients experience the intercultural care encounter in hospitals? a systematic review of qualitative research. BMC Med Ethics. 2017;18, 2(1).
+https://doi.org/10.1186/s12910-016-0163-8
+.
+Harden A. Critical appraisal and qualitative research: exploring sensitivity analysis. Research Methods Festival of the National Centre for Research Methods; St Catherine’s College, Oxford; 2008.
+Google Scholar
+Clemson L, Cumming RG, Kendig H, Swann M, Heards R, Taylor K. The effectiveness of a community-based program for reducing the incidence of falls in the elderly: a randomized trial. J thz Am Geriatr Soc. 2004;52(9):1487–94.
+https://doi.org/10.1111/j.1532-5415.2004.52411.x
+.
+Article
+Google Scholar
+Ballinger C, Clemson L. Older people’s views about community falls prevention: an Australian perspective. Br J Occup Ther. 2006;69(9):263-70.
+https://doi.org/10.1177/030802260606900604
+.
+Mackenzie L, Liddle J, Clemson LM, Tan ACW, Lovarini M, Pit SW, et al. Perspectives of Australian GPs on tailoring fall risk management: a qualitative study. Aust J Prim Health. 2021;27(5):409–15.
+https://doi.org/10.1071/PY21022
+.
+Article
+Google Scholar
+Middlebrook S, Mackenzie L. The enhanced primary care program and falls prevention: perceptions of private occupational therapists and physiotherapists. Australas J Ageing. 2012;31(2):72–7.
+https://doi.org/10.1111/j.1741-6612.2011.00527.x
+.
+Article
+Google Scholar
+Mora Pinzon M, Myers S, Jacobs EA, Ohly S, Bonet-Vazquez M, Villa M, et al. “Pisando Fuerte”: an evidence-based falls prevention program for Hispanic/Latinos older adults: results of an implementation trial. BMC Geriatr. 2019;19(1):258.
+https://doi.org/10.1186/s12877-019-1273-1
+.
+Article
+Google Scholar
+Renehan E, Meyer C, Elliott RA, Batchelor F, Said C, Haines T, et al. Posthospital falls prevention intervention: a mixed-methods study. J Aging Phys Act. 2019;27(2):155–65.
+https://doi.org/10.1123/japa.2017-0406
+.
+Article
+Google Scholar
+Garner E, Kempton A, van Beurden E. Strategies to prevent falls: the Stay on Your Feet program. Health Promot J Aust. 1996;6(3):37-43.
+Hahn A, van Beurden E, Kempton A, Sladden T, Garner E. Meeting the challenge of falls prevention at the population level: a community-based intervention with older people in Australia. Health Promot Int. 1996;11(3):203-11.
+Kempton A, van Beurden E, Sladden T, Garner E, Beard J. Older people can stay on their feet: final results of a community-based falls prevention programme. Health Promot Int. 2000;15(1):27-33.
+https://doi.org/10.1093/heapro/15.1.27
+.
+Barnett L, van Beurden E, Eakin EG, Dietrich U, Beard J, Newman B. Falls prevention in rural general practice: what stands the test of time and where to from here? Aust N Z J Public Health. 2003;27(5):481–5.
+Article
+Google Scholar
+Barnett LM, van Beurden E, Eakin EG, Beard J, Dietrich U, Newman B. Program sustainability of a community-based intervention to prevent falls among older Australians. Health Promot Int. 2004;19(3):281–8.
+https://doi.org/10.1093/heapro/dah302
+.
+Article
+CAS
+Google Scholar
+Milisen K, Dejaeger E, Braes T, Dierickx K, De Bondt K, Smeulders W, et al. Process evaluation of a nurse-led multifactorial intervention protocol for risk screening and assessment of fall problems among community-dwelling older persons: a pilot study. J Nutr Health Aging. 2006;10(5):446-52.
+Mackenzie L, Clemson L, Irving D. Fall prevention in primary care using chronic disease management plans: a process evaluation of provider and consumer perspectives. Aust Occup Ther J. 2020;67(1):22–30.
+https://doi.org/10.1111/1440-1630.12618
+.
+Article
+Google Scholar
+Gholamzadeh S, Ebrahimi M, Sharifi N, Rambod M. The effectiveness of the stepping-on fall prevention program on the quality of life, fear of fall, and fall-preventive behaviors among community-dwelling older adults: a randomized clinical trial. Shiraz E-Med J. 2021;22(12).
+https://doi.org/10.5812/semj.109363
+.
+Mahoney JE, Gobel VL, Shea T, Janczewski J, Cech S, Clemson L. Improving fidelity of translation of the Stepping On Falls Prevention Program through root cause analysis. Front Public Health. 2016;4:251.
+https://doi.org/10.3389/fpubh.2016.00251
+.
+Article
+Google Scholar
+Elley CR, Robertson MC, Garrett S, Kerse NM, McKinlay E, Lawton B, et al. Effectiveness of a falls-and-fracture nurse coordinator to reduce falls: a randomized, controlled trial of at-risk older adults. J Am Geriatr Soc. 2008;56(8):1383–9.
+https://doi.org/10.1111/j.1532-5415.2008.01802.x
+.
+Article
+Google Scholar
+Kramer BJ, Vivrette RL, Rubenstein LZ. Engaging community-based organizations in fall prevention education. Gerontol Geriatr Educ. 2011;32(2):182–96.
+https://doi.org/10.1080/02701960.2011.572209
+.
+Article
+Google Scholar
+Zimmerman S, Greene A, Sloane PD, Mitchell M, Giuliani C, Nyrop K, et al. Preventing falls in assisted living: results of a quality improvement pilot study. Geriatr Nurs. 2017;38(3):185–91.
+https://doi.org/10.1016/j.gerinurse.2016.09.003
+.
+Article
+Google Scholar
+Schlotthauer AE, Mahoney JE, Christiansen AL, Gobel VL, Layde P, Lecey V, et al. Research on the translation and implementation of Stepping On in three Wisconsin communities. Front Public Health. 2017;5:128.
+https://doi.org/10.3389/fpubh.2017.00128
+.
+Article
+Google Scholar
+Baker DI, Gottschalk M, Bianco LM. Step by step: integrating evidence-based fall-risk management into senior centers. Gerontologist. 2007;47(4):548–54.
+https://doi.org/10.1093/geront/47.4.548
+.
+Article
+Google Scholar
+Kittipimpanon K, Amnatsatsue K, Kerdmongkol P, Maruo SJ, Nityasuddhi D. Development and evaluation of a community-based fall prevention program for elderly Thais. Pacific Rim Int J Nurs Res. 2012;16(3):222-35.
+Tiedemann A, Purcell K, Clemson L, Lord SR, Sherrington C. Fall prevention behaviour after participation in the Stepping On program: a pre-post study. Public Health Res Pract. 2021;31(1).
+https://doi.org/10.17061/phrp30122004
+.
+Hong Q, Pluye P, Fàbregues S, Bartlett G, Boardman F, Cargo M, et al. Mixed Methods Appraisal Tool (MMAT), version 2018. 2018.
+Google Scholar
+Equator network. Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide Available from:
+https://www.equator-network.org/reporting-guidelines/tidier/2021
+. Accessed 7 Feb 2021.
+Popay J, Roberts H, Sowden A, Petticrew M, Aai L, Rodgers M, et al. Guidance on the conduct of narrative synthesis in systematic reviews - a product from the ESRC Methods Programme. 2006.
+Google Scholar
+Proctor EK, Powell BJ, McMillen CJ. Implementation strategies: recommendations for specifying and reporting. Implement Sci. 2013;8(139).
+https://doi.org/10.1186/1748-5908-8-139
+.
+Kok G, Gottlieb NH, G-jY P, Mullen PD, Parcel GS, Ruiter RAC, et al. A taxonomy of behaviour change methods : an Intervention Mapping approach. Health Psychol Rev. 2016;10(3):297–312.
+Article
+Google Scholar
+Nilsen P. Making sense of implementation theories, models and frameworks. Implement Sci. 2015;10:53.
+https://doi.org/10.1186/s13012-015-0242-0
+.
+Article
+Google Scholar
+Arlinghaus KR, Johnston CA. Advocating for behavior change with education. Am J Lifestyle Med. 2018;12(2):113–6.
+https://doi.org/10.1177/1559827617745479
+.
+Article
+Google Scholar
+Field J, Leiscester M. Lifelong learning: education across the lifespan: Routledge Falmer, London; 2000.
+Google Scholar
+Bandura A. In: Freeman WH, editor. Self-Efficacy. The exercise of control. New York: W.H. Freeman and Company; 1997.
+Janis I, Mann L. Decision Making. A psychological analysis of conflict, choice, and commitment. New York: Macmillan Publishing; 1977.
+Google Scholar
+Graham ID, Logan J, Harrison MB, Straus SE, Tetroe J, Caswell W, et al. Lost in knowledge translation: time for a map? J Contin Educ Health Prof. 2006;26(1):13–24.
+https://doi.org/10.1002/chp.47
+.
+Article
+Google Scholar
+Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions. Implement Sci. 2011;6:42.
+https://doi.org/10.1186/1748-5908-6-42
+.
+Article
+Google Scholar
+May C, Finch T. Implementing, embedding, and integrating practices: an outline of normalization process theory. Sociology. 2009;43(3):535–54.
+https://doi.org/10.1177/0038038509103208
+.
+Article
+Google Scholar
+World Health Organization. The 1st International Conference on Health Promotion, Ottawa, 1986. Available from:
+https://www.who.int/teams/health-promotion/enhanced-wellbeing/first-global-conference2021
+. Accessed 7 Feb 2021.
+Prochaska JO, DiClemente CC. Stages and processes of self-change of smoking: toward an integrative model of change. J Consult Clin Psychol. 1983;51(3):390–5.
+https://doi.org/10.1037//0022-006x.51.3.390
+.
+Article
+CAS
+Google Scholar
+Berwick DM. Disseminating innovations in health care. JAMA. 2003;289(15):1969–75.
+https://doi.org/10.1001/jama.289.15.1969
+.
+Article
+Google Scholar
+Witte K. Putting the fear back into fear appeals: the extended parallel process model. Commun Monographs. 1992;4(59):329–49.
+https://doi.org/10.1080/03637759209376276
+.
+Article
+Google Scholar
+Berwick DM. Developing and testing changes in delivery of care. Ann Intern Med. 1998;128(8):651–6.
+https://doi.org/10.7326/0003-4819-128-8-199804150-00009
+.
+Article
+CAS
+Google Scholar
+Smith W. The AIC model: Concepts and Practice. ODII: Washington DC; 1991.
+Green L, Kreuter M. Health prommotion planning: An educational and ecological approach. Palo Alto: Mayfield Publishing; 1999.
+Google Scholar
+Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions: the RE-AIM framework. Am J Public Health. 1999;89(9):1322–7.
+https://doi.org/10.2105/ajph.89.9.1322
+.
+Article
+CAS
+Google Scholar
+Pinnock H, Barwick M, Carpenter CR, Eldridge S, Grandes G, Griffiths CJ, et al. Standards for Reporting Implementation Studies (StaRI): explanation and elaboration document. BMJ Open. 2017;7(4):e013318.
+https://doi.org/10.1136/bmjopen-2016-013318
+.
+Article
+Google Scholar
+Albrecht L, Archibald M, Arseneau D, Scott SD. Development of a checklist to assess the quality of reporting of knowledge translation interventions using the Workgroup for Intervention Development and Evaluation Research (WIDER) recommendations. Implement Sci. 2013;16(8).
+https://doi.org/10.1186/1748-5908-8-52
+.
+Michie S, Fixsen D, Grimshaw JM, Eccles MP. Specifying and reporting complex behaviour change interventions: the need for a scientific method. Implement Sci. 2009;4:40.
+https://doi.org/10.1186/1748-5908-4-40
+.
+Article
+Google Scholar
+Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM, et al. A refined compilation of implementation strategies: results from the Expert Recommendations for Implementing Change (ERIC) project. Implement Sci. 2015;10:21.
+https://doi.org/10.1186/s13012-015-0209-1
+.
+Article
+Google Scholar
+Michie S, Atkins L, West R. The Behaviour Change Wheel: A Guide to Designing Interventions. London: Silverback; 2014.
+Google Scholar
+Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W, et al. The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus for the reporting of behavior change interventions. Ann Behav Med. 2013;46(1):81–95.
+https://doi.org/10.1007/s12160-013-9486-6
+.
+Article
+Google Scholar
+Cochrane. Effective Practice and Organisation of Care (EPOC). EPOC taxonomy available from:
+epoc.cochrane.org/epoc-taxonomy2015
+. Accessed 7 Feb 2021.
+Flottorp SA, Oxman AD, Krause J, Musila NR, Wensing M, Godycki-Cwirko M, et al. A checklist for identifying determinants of practice : a systematic review and synthesis of frameworks and taxonomies of factors that prevent or enable improvements in healthcare professional practice. Implement Sci. 2013;8(35).
+https://doi.org/10.1186/1748-5908-8-35
+.
+Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC. Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science. Implement Sci. 2009;4:50.
+https://doi.org/10.1186/1748-5908-4-50
+.
+Article
+Google Scholar
+Moullin JC, Dickson KS, Stadnick NA, Albers B, Nilsen P, Broder-Fingert S, et al. Ten recommendations for using implementation frameworks in research and practice. Implement Sci Commun. 2020;1(1):42.
+https://doi.org/10.1186/s43058-020-00023-7
+.
+Article
+Google Scholar
+Davies P, Walker AE, Grimshaw JM. A systematic review of the use of theory in the design of guideline dissemination and implementation strategies and interpretation of the results of rigorous evaluations. Implement Sci. 2010;5(14).
+https://doi.org/10.1186/1748-5908-5-14
+.
+Vandervelde S, Scheepmans K, Milisen K, van Achterberg T, Vlaeyen E, Flamaing J, et al. Reducing the use of physical restraints in home care: development and feasibility testing of a multicomponent program to support the implementation of a guideline. BMC Geriatrics. 2021;21(1):77.
+https://doi.org/10.1186/s12877-020-01946-5
+.
+Article
+Google Scholar
+Download references
+Acknowledgements
+We would like to thank the expert group of stakeholders and Kristel Paque and Thomas Vandendriessche experts of the Biomedical Library, 2Bergen of the University Library of KU Leuven.
+Funding
+The Flemish Government, Department of Welfare, Public Health & Family funded this study. The funding agency had no role in the design of the study, writing the manuscript and the collection, analysis, or interpretation of data.
+Author information
+Authors and Affiliations
+Department of Public Health and Primary Care, Academic Centre for Nursing and Midwifery, Centre of Expertise for Falls and Fracture Prevention Flanders, KU Leuven, Kapucijnenvoer 35 blok d bus 7001, 3000, Leuven, Belgium
+Sara Vandervelde, Ellen Vlaeyen, Sien Valy, Julie Meurrens, Joris Poels, Margot Himpe, Goedele Belaen & Koen Milisen
+Faculty of Medicine and Life Sciences, Hasselt University, Agoralaan, 3590, Diepenbeek, Belgium
+Ellen Vlaeyen
+Department of Public Health and Primary Care, Academic Centre for Nursing and Midwifery, KU Leuven, Kapucijnenvoer 35 blok d bus 7001, 3000, Leuven, Belgium
+Bernadette Dierckx de Casterlé
+Department of Public Health and Primary Care, Gerontology and Geriatrics, Kapucijnenvoer 35 blok d bus 7001, 3000, Leuven, Belgium
+Johan Flamaing
+Department of Geriatric Medicine, University Hospital Leuven, Herestraat 49, 3000, Leuven, Belgium
+Johan Flamaing & Koen Milisen
+Authors
+Sara Vandervelde
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Ellen Vlaeyen
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Bernadette Dierckx de Casterlé
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Johan Flamaing
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Sien Valy
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Julie Meurrens
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Joris Poels
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Margot Himpe
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Goedele Belaen
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Koen Milisen
+View author publications
+Search author on:
+PubMed
+Google Scholar
+Contributions
+SAV, EV, BDdC, JF, and KM, study design. SAV, SIV, JM, JP, MH, and GB, data collection and data analysis. SAV, drafting the manuscript. EV, BDdC, JF, and KM, supervision. The author(s) read and approved the final manuscript.
+Corresponding author
+Correspondence to
+Koen Milisen
+.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The other authors declare that they have no competing interests. Koen Milisen is senior editor for BMC Geriatrics, and Bernadette Dierckx de Casterlé is associate editor for BMC Geriatrics.
+Additional information
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary Information
+Additional file 1.
+Search strategy.
+Additional file 2.
+Sensitivity analysis.
+Additional file 3.
+Table Implementation strategies.
+Rights and permissions
+Open Access
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/
+. The Creative Commons Public Domain Dedication waiver (
+http://creativecommons.org/publicdomain/zero/1.0/
+) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and permissions
+About this article
+Cite this article
+Vandervelde, S., Vlaeyen, E., de Casterlé, B.D.
+et al.
+Strategies to implement multifactorial falls prevention interventions in community-dwelling older persons: a systematic review.
+Implementation Sci
+18
+, 4 (2023). https://doi.org/10.1186/s13012-022-01257-w
+Download citation
+Received
+:
+30 May 2022
+Accepted
+:
+16 December 2022
+Published
+:
+06 February 2023
+DOI
+:
+https://doi.org/10.1186/s13012-022-01257-w
+Share this article
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+Sorry, a shareable link is not currently available for this article.
+Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+Community setting
+Primary health care
+Implementation
+Practice guidelines
+Falls prevention
+Aged
+Download PDF
+Download ePub
+Sections
+Figures
+References
+Abstract
+Background
+Methods
+Results
+Discussion
+Conclusions
+Availability of data and materials
+Abbreviations
+References
+Acknowledgements
+Funding
+Author information
+Ethics declarations
+Additional information
+Supplementary Information
+Rights and permissions
+About this article
+Fig. 1
+View in article
+Full size image
+Fig. 2
+View in article
+Full size image
+Milisen K, Detroch E, Bellens K, Braes T, Dierckx K, Smeulders W, et al. Valincidenten bij thuiswonende ouderen: een pilootstudie naar prevalentie, omstandigheden en gevolgen in Vlaanderen. Tijdschrift voor gerontologie en geriatrie. 2004;35:15–20.
+Google Scholar
+World Health Organization. Falls Available from:
+https://www.who.int/news-room/fact-sheets/detail/falls2018
+. Accessed 7 Feb 2021.
+World Health Organization. Ageing and health Available from:
+https://www.who.int/news-room/fact-sheets/detail/ageing-and-health2018
+. Accessed 7 Feb 2021.
+Lamb SE, Jorstad-Stein EC, Hauer K, Becker C. Development of a common outcome data set for fall injury prevention trials: the Prevention of falls network Europe consensus. J Am Geriatr Soc. 2005;53(9):1618–22.
+https://doi.org/10.1111/j.1532-5415.2005.53455.x
+.
+Article
+Google Scholar
+Kannus P, Sievänen H, Palvanen M, Järvinen T, Parkkari J. Prevention of falls and consequent injuries in elderly people. Lancet. 2005;366(9500):1885–93.
+https://doi.org/10.1016/s0140-6736(05)67604-0
+.
+Article
+Google Scholar
+Centers for Disease Control and Prevention. Deaths from falls among persons aged 65 years - United States, 2007-2016 Available from:
+https://www.cdc.gov/mmwr/volumes/67/wr/mm6718a1.htm2018
+. Accessed 7 Feb 2021.
+Florence CS, Bergen G, Atherly A, Burns E, Stevens J, Drake C. Medical costs of fatal and nonfatal falls in older adults. J Am Geriatr Soc. 2018;66(4):693–8.
+https://doi.org/10.1111/jgs.15304
+.
+Article
+Google Scholar
+Olij BF, Ophuis RH, Polinder S, van Beeck EF, Burdorf A, Panneman MJM, et al. Economic evaluations of falls prevention programs for older adults: a systematic review. J Am Geriatr Soc. 2018;66(11):2197–204.
+https://doi.org/10.1111/jgs.15578
+.
+Article
+Google Scholar
+Milisen K, Leysens G, Vanaken D, Poels J, Vlaeyen E, Janssens E, et al. Vlaamse richtlijn ‘Valpreventie bij thuiswonende ouderen’. www.valpreventie.be, Leuven and www.ebmpracticenet.be, Antwerpen; 2017.
+National Institute for Health and Care Excellence. Falls in older people: assessing risk and prevention Clinical guideline. 2013.
+Google Scholar
+Hopewell S, Adedire O, Copsey BJ, Boniface GJ, Sherrington C, Clemson L, et al. Multifactorial and multiple component interventions for preventing falls in older people living in the community. Cochrane Database Syst Rev. 2018;7:CD012221.
+https://doi.org/10.1002/14651858.CD012221.pub2
+.
+Article
+Google Scholar
+Tinetti ME, Kumar C. The patient who falls: “it’s always a trade-off”. JAMA. 2010;303(3):258–66.
+https://doi.org/10.1001/jama.2009.2024
+.
+Article
+CAS
+Google Scholar
+American Geriatrics Society. AGS/BGS clinical practice guideline: prevention of falls in older persons Available from:
+https://sbgg.org.br/wp-content/uploads/2014/10/2010-AGSBGS-Clinical.pdf2010
+. Accessed 7 Feb 2021.
+Bhasin S, Gill TM, Reuben DB, Latham NK, Ganz DA, Greene EJ, et al. A randomized trial of a multifactorial strategy to prevent serious fall injuries. N Engl J Med. 2020;383(2):129–40.
+https://doi.org/10.1056/NEJMoa2002183
+.
+Article
+Google Scholar
+Lamb SE, Bruce J, Hossain A, Ji C, Longo R, Lall R, et al. Screening and intervention to prevent falls and fractures in older people. N Engl J Med. 2020;383(19):1848–59.
+https://doi.org/10.1056/NEJMoa2001500
+.
+Article
+Google Scholar
+Carpenter CR, Malone ML. Avoiding therapeutic Nihilism from Complex Geriatric Intervention “Negative” Trials: STRIDE Lessons. J Am Geriatr Soc. 2020;68(12):2752–6.
+https://doi.org/10.1111/jgs.16887
+.
+Article
+Google Scholar
+Fortinsky RH, Baker D, Gottschalk M, King M, Trella P, Tinetti ME. Extent of implementation of evidence-based fall prevention practices for older patients in home health care. J Am Geriatr Soc. 2008;56(4):737–43.
+https://doi.org/10.1111/j.1532-5415.2007.01630.x
+.
+Article
+Google Scholar
+Bartholomew LK, Kok G, Ruiter RAC, Fernandez ME, Markham CM. Planning health promotion programs: an intervention mapping approach. 4th ed. Hoboken: Wiley; 2016. p. 70.
+Google Scholar
+Curran GM, Bauer M, Mittman B, Pyne JM, Stetler C. Effectiveness-implementation hybrid designs: combining elements of clinical effectiveness and implementation research to enhance public health impact. Med Care. 2012;50(3):217–26.
+https://doi.org/10.1097/MLR.0b013e3182408812
+.
+Article
+Google Scholar
+Goodwin V, Jones-Hughes T, Thompson-Coon J, Boddy K, Stein K. Implementing the evidence for preventing falls among community-dwelling older people: a systematic review. J Safety Res. 2011;42(6):443–51.
+https://doi.org/10.1016/j.jsr.2011.07.008
+.
+Article
+Google Scholar
+Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71.
+https://doi.org/10.1136/bmj.n71
+.
+Article
+Google Scholar
+Vandervelde S, Vlaeyen E, Dierckx de Casterlé B, Flamaing J, Valy S, Poels J, et al. Strategies to implement fall prevention approaches in home care: a systematic review. 2020. Available from:
+https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020187450
+. PROSPERO. Accessed 7 Feb 2021.
+Google Scholar
+Bramer WM, Giustini D, De Jong GB, Holland L, Bekhuis T. De-duplication of database search results for systematic reviews in endnote. J Med Lib Assoc. 2016;104(3):240–3.
+https://doi.org/10.3163/1536-5050.104.3.014
+.
+Article
+Google Scholar
+Rayyan. What if systematic review took half the time? Available from:
+https://www.rayyan.ai/2021
+. Accessed 7 Feb 2021.
+Degrie L, Gastmans C, Mahieu L, Dierckx de Casterle B, Denier Y. How do ethnic minority patients experience the intercultural care encounter in hospitals? a systematic review of qualitative research. BMC Med Ethics. 2017;18, 2(1).
+https://doi.org/10.1186/s12910-016-0163-8
+.
+Harden A. Critical appraisal and qualitative research: exploring sensitivity analysis. Research Methods Festival of the National Centre for Research Methods; St Catherine’s College, Oxford; 2008.
+Google Scholar
+Clemson L, Cumming RG, Kendig H, Swann M, Heards R, Taylor K. The effectiveness of a community-based program for reducing the incidence of falls in the elderly: a randomized trial. J thz Am Geriatr Soc. 2004;52(9):1487–94.
+https://doi.org/10.1111/j.1532-5415.2004.52411.x
+.
+Article
+Google Scholar
+Ballinger C, Clemson L. Older people’s views about community falls prevention: an Australian perspective. Br J Occup Ther. 2006;69(9):263-70.
+https://doi.org/10.1177/030802260606900604
+.
+Mackenzie L, Liddle J, Clemson LM, Tan ACW, Lovarini M, Pit SW, et al. Perspectives of Australian GPs on tailoring fall risk management: a qualitative study. Aust J Prim Health. 2021;27(5):409–15.
+https://doi.org/10.1071/PY21022
+.
+Article
+Google Scholar
+Middlebrook S, Mackenzie L. The enhanced primary care program and falls prevention: perceptions of private occupational therapists and physiotherapists. Australas J Ageing. 2012;31(2):72–7.
+https://doi.org/10.1111/j.1741-6612.2011.00527.x
+.
+Article
+Google Scholar
+Mora Pinzon M, Myers S, Jacobs EA, Ohly S, Bonet-Vazquez M, Villa M, et al. “Pisando Fuerte”: an evidence-based falls prevention program for Hispanic/Latinos older adults: results of an implementation trial. BMC Geriatr. 2019;19(1):258.
+https://doi.org/10.1186/s12877-019-1273-1
+.
+Article
+Google Scholar
+Renehan E, Meyer C, Elliott RA, Batchelor F, Said C, Haines T, et al. Posthospital falls prevention intervention: a mixed-methods study. J Aging Phys Act. 2019;27(2):155–65.
+https://doi.org/10.1123/japa.2017-0406
+.
+Article
+Google Scholar
+Garner E, Kempton A, van Beurden E. Strategies to prevent falls: the Stay on Your Feet program. Health Promot J Aust. 1996;6(3):37-43.
+Hahn A, van Beurden E, Kempton A, Sladden T, Garner E. Meeting the challenge of falls prevention at the population level: a community-based intervention with older people in Australia. Health Promot Int. 1996;11(3):203-11.
+Kempton A, van Beurden E, Sladden T, Garner E, Beard J. Older people can stay on their feet: final results of a community-based falls prevention programme. Health Promot Int. 2000;15(1):27-33.
+https://doi.org/10.1093/heapro/15.1.27
+.
+Barnett L, van Beurden E, Eakin EG, Dietrich U, Beard J, Newman B. Falls prevention in rural general practice: what stands the test of time and where to from here? Aust N Z J Public Health. 2003;27(5):481–5.
+Article
+Google Scholar
+Barnett LM, van Beurden E, Eakin EG, Beard J, Dietrich U, Newman B. Program sustainability of a community-based intervention to prevent falls among older Australians. Health Promot Int. 2004;19(3):281–8.
+https://doi.org/10.1093/heapro/dah302
+.
+Article
+CAS
+Google Scholar
+Milisen K, Dejaeger E, Braes T, Dierickx K, De Bondt K, Smeulders W, et al. Process evaluation of a nurse-led multifactorial intervention protocol for risk screening and assessment of fall problems among community-dwelling older persons: a pilot study. J Nutr Health Aging. 2006;10(5):446-52.
+Mackenzie L, Clemson L, Irving D. Fall prevention in primary care using chronic disease management plans: a process evaluation of provider and consumer perspectives. Aust Occup Ther J. 2020;67(1):22–30.
+https://doi.org/10.1111/1440-1630.12618
+.
+Article
+Google Scholar
+Gholamzadeh S, Ebrahimi M, Sharifi N, Rambod M. The effectiveness of the stepping-on fall prevention program on the quality of life, fear of fall, and fall-preventive behaviors among community-dwelling older adults: a randomized clinical trial. Shiraz E-Med J. 2021;22(12).
+https://doi.org/10.5812/semj.109363
+.
+Mahoney JE, Gobel VL, Shea T, Janczewski J, Cech S, Clemson L. Improving fidelity of translation of the Stepping On Falls Prevention Program through root cause analysis. Front Public Health. 2016;4:251.
+https://doi.org/10.3389/fpubh.2016.00251
+.
+Article
+Google Scholar
+Elley CR, Robertson MC, Garrett S, Kerse NM, McKinlay E, Lawton B, et al. Effectiveness of a falls-and-fracture nurse coordinator to reduce falls: a randomized, controlled trial of at-risk older adults. J Am Geriatr Soc. 2008;56(8):1383–9.
+https://doi.org/10.1111/j.1532-5415.2008.01802.x
+.
+Article
+Google Scholar
+Kramer BJ, Vivrette RL, Rubenstein LZ. Engaging community-based organizations in fall prevention education. Gerontol Geriatr Educ. 2011;32(2):182–96.
+https://doi.org/10.1080/02701960.2011.572209
+.
+Article
+Google Scholar
+Zimmerman S, Greene A, Sloane PD, Mitchell M, Giuliani C, Nyrop K, et al. Preventing falls in assisted living: results of a quality improvement pilot study. Geriatr Nurs. 2017;38(3):185–91.
+https://doi.org/10.1016/j.gerinurse.2016.09.003
+.
+Article
+Google Scholar
+Schlotthauer AE, Mahoney JE, Christiansen AL, Gobel VL, Layde P, Lecey V, et al. Research on the translation and implementation of Stepping On in three Wisconsin communities. Front Public Health. 2017;5:128.
+https://doi.org/10.3389/fpubh.2017.00128
+.
+Article
+Google Scholar
+Baker DI, Gottschalk M, Bianco LM. Step by step: integrating evidence-based fall-risk management into senior centers. Gerontologist. 2007;47(4):548–54.
+https://doi.org/10.1093/geront/47.4.548
+.
+Article
+Google Scholar
+Kittipimpanon K, Amnatsatsue K, Kerdmongkol P, Maruo SJ, Nityasuddhi D. Development and evaluation of a community-based fall prevention program for elderly Thais. Pacific Rim Int J Nurs Res. 2012;16(3):222-35.
+Tiedemann A, Purcell K, Clemson L, Lord SR, Sherrington C. Fall prevention behaviour after participation in the Stepping On program: a pre-post study. Public Health Res Pract. 2021;31(1).
+https://doi.org/10.17061/phrp30122004
+.
+Hong Q, Pluye P, Fàbregues S, Bartlett G, Boardman F, Cargo M, et al. Mixed Methods Appraisal Tool (MMAT), version 2018. 2018.
+Google Scholar
+Equator network. Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide Available from:
+https://www.equator-network.org/reporting-guidelines/tidier/2021
+. Accessed 7 Feb 2021.
+Popay J, Roberts H, Sowden A, Petticrew M, Aai L, Rodgers M, et al. Guidance on the conduct of narrative synthesis in systematic reviews - a product from the ESRC Methods Programme. 2006.
+Google Scholar
+Proctor EK, Powell BJ, McMillen CJ. Implementation strategies: recommendations for specifying and reporting. Implement Sci. 2013;8(139).
+https://doi.org/10.1186/1748-5908-8-139
+.
+Kok G, Gottlieb NH, G-jY P, Mullen PD, Parcel GS, Ruiter RAC, et al. A taxonomy of behaviour change methods : an Intervention Mapping approach. Health Psychol Rev. 2016;10(3):297–312.
+Article
+Google Scholar
+Nilsen P. Making sense of implementation theories, models and frameworks. Implement Sci. 2015;10:53.
+https://doi.org/10.1186/s13012-015-0242-0
+.
+Article
+Google Scholar
+Arlinghaus KR, Johnston CA. Advocating for behavior change with education. Am J Lifestyle Med. 2018;12(2):113–6.
+https://doi.org/10.1177/1559827617745479
+.
+Article
+Google Scholar
+Field J, Leiscester M. Lifelong learning: education across the lifespan: Routledge Falmer, London; 2000.
+Google Scholar
+Bandura A. In: Freeman WH, editor. Self-Efficacy. The exercise of control. New York: W.H. Freeman and Company; 1997.
+Janis I, Mann L. Decision Making. A psychological analysis of conflict, choice, and commitment. New York: Macmillan Publishing; 1977.
+Google Scholar
+Graham ID, Logan J, Harrison MB, Straus SE, Tetroe J, Caswell W, et al. Lost in knowledge translation: time for a map? J Contin Educ Health Prof. 2006;26(1):13–24.
+https://doi.org/10.1002/chp.47
+.
+Article
+Google Scholar
+Michie S, van Stralen MM, West R. The behaviour change wheel: a new method for characterising and designing behaviour change interventions. Implement Sci. 2011;6:42.
+https://doi.org/10.1186/1748-5908-6-42
+.
+Article
+Google Scholar
+May C, Finch T. Implementing, embedding, and integrating practices: an outline of normalization process theory. Sociology. 2009;43(3):535–54.
+https://doi.org/10.1177/0038038509103208
+.
+Article
+Google Scholar
+World Health Organization. The 1st International Conference on Health Promotion, Ottawa, 1986. Available from:
+https://www.who.int/teams/health-promotion/enhanced-wellbeing/first-global-conference2021
+. Accessed 7 Feb 2021.
+Prochaska JO, DiClemente CC. Stages and processes of self-change of smoking: toward an integrative model of change. J Consult Clin Psychol. 1983;51(3):390–5.
+https://doi.org/10.1037//0022-006x.51.3.390
+.
+Article
+CAS
+Google Scholar
+Berwick DM. Disseminating innovations in health care. JAMA. 2003;289(15):1969–75.
+https://doi.org/10.1001/jama.289.15.1969
+.
+Article
+Google Scholar
+Witte K. Putting the fear back into fear appeals: the extended parallel process model. Commun Monographs. 1992;4(59):329–49.
+https://doi.org/10.1080/03637759209376276
+.
+Article
+Google Scholar
+Berwick DM. Developing and testing changes in delivery of care. Ann Intern Med. 1998;128(8):651–6.
+https://doi.org/10.7326/0003-4819-128-8-199804150-00009
+.
+Article
+CAS
+Google Scholar
+Smith W. The AIC model: Concepts and Practice. ODII: Washington DC; 1991.
+Green L, Kreuter M. Health prommotion planning: An educational and ecological approach. Palo Alto: Mayfield Publishing; 1999.
+Google Scholar
+Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions: the RE-AIM framework. Am J Public Health. 1999;89(9):1322–7.
+https://doi.org/10.2105/ajph.89.9.1322
+.
+Article
+CAS
+Google Scholar
+Pinnock H, Barwick M, Carpenter CR, Eldridge S, Grandes G, Griffiths CJ, et al. Standards for Reporting Implementation Studies (StaRI): explanation and elaboration document. BMJ Open. 2017;7(4):e013318.
+https://doi.org/10.1136/bmjopen-2016-013318
+.
+Article
+Google Scholar
+Albrecht L, Archibald M, Arseneau D, Scott SD. Development of a checklist to assess the quality of reporting of knowledge translation interventions using the Workgroup for Intervention Development and Evaluation Research (WIDER) recommendations. Implement Sci. 2013;16(8).
+https://doi.org/10.1186/1748-5908-8-52
+.
+Michie S, Fixsen D, Grimshaw JM, Eccles MP. Specifying and reporting complex behaviour change interventions: the need for a scientific method. Implement Sci. 2009;4:40.
+https://doi.org/10.1186/1748-5908-4-40
+.
+Article
+Google Scholar
+Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM, et al. A refined compilation of implementation strategies: results from the Expert Recommendations for Implementing Change (ERIC) project. Implement Sci. 2015;10:21.
+https://doi.org/10.1186/s13012-015-0209-1
+.
+Article
+Google Scholar
+Michie S, Atkins L, West R. The Behaviour Change Wheel: A Guide to Designing Interventions. London: Silverback; 2014.
+Google Scholar
+Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W, et al. The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus for the reporting of behavior change interventions. Ann Behav Med. 2013;46(1):81–95.
+https://doi.org/10.1007/s12160-013-9486-6
+.
+Article
+Google Scholar
+Cochrane. Effective Practice and Organisation of Care (EPOC). EPOC taxonomy available from:
+epoc.cochrane.org/epoc-taxonomy2015
+. Accessed 7 Feb 2021.
+Flottorp SA, Oxman AD, Krause J, Musila NR, Wensing M, Godycki-Cwirko M, et al. A checklist for identifying determinants of practice : a systematic review and synthesis of frameworks and taxonomies of factors that prevent or enable improvements in healthcare professional practice. Implement Sci. 2013;8(35).
+https://doi.org/10.1186/1748-5908-8-35
+.
+Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC. Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science. Implement Sci. 2009;4:50.
+https://doi.org/10.1186/1748-5908-4-50
+.
+Article
+Google Scholar
+Moullin JC, Dickson KS, Stadnick NA, Albers B, Nilsen P, Broder-Fingert S, et al. Ten recommendations for using implementation frameworks in research and practice. Implement Sci Commun. 2020;1(1):42.
+https://doi.org/10.1186/s43058-020-00023-7
+.
+Article
+Google Scholar
+Davies P, Walker AE, Grimshaw JM. A systematic review of the use of theory in the design of guideline dissemination and implementation strategies and interpretation of the results of rigorous evaluations. Implement Sci. 2010;5(14).
+https://doi.org/10.1186/1748-5908-5-14
+.
+Vandervelde S, Scheepmans K, Milisen K, van Achterberg T, Vlaeyen E, Flamaing J, et al. Reducing the use of physical restraints in home care: development and feasibility testing of a multicomponent program to support the implementation of a guideline. BMC Geriatrics. 2021;21(1):77.
+https://doi.org/10.1186/s12877-020-01946-5
+.
+Article
+Google Scholar
+Implementation Science
+ISSN: 1748-5908
+Contact us
+Submission enquiries:
+Access here and click Contact Us
+General enquiries:
+journalsubmissions@springernature.com
