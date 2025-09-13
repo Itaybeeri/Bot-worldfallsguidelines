@@ -130,3 +130,6 @@ logs/
 
 # Keep the gitignore itself tracked
 !.gitignore
+
+# Ignore OpenAI API key file
+openai_key.txt

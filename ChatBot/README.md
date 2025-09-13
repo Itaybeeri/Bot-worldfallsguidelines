@@ -4,12 +4,15 @@ A Streamlit chatbot that uses Retrieval-Augmented Generation (RAG) with ChromaDB
 
 ## IMPORTANT: OpenAI API Key Required
 
-To use the chatbot, you must provide an OpenAI API key. You can do this in one of two ways:
+To use the chatbot, you must provide an OpenAI API key. **Do NOT commit your API key to version control.**
 
-1. **Recommended:** Set your API key in `config.py` as `OPENAI_API_KEY = "sk-..."` before running the app.
-2. Or, enter your API key in the sidebar when the app is running.
+**How to add your API key:**
 
-If you run the chatbot without an API key, you will be prompted to add it in the sidebar or in `config.py`.
+1. Create a file named `openai_key.txt` in the `ChatBot` folder (next to `config.py`).
+2. Paste your OpenAI API key (e.g., `sk-...`) as the only line in that file.
+3. This file is already in `.gitignore` and will not be committed to GitHub.
+
+If you run the chatbot without an API key, you will be prompted in the UI to add `openai_key.txt` with your key.
 
 You can get an API key here: [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
