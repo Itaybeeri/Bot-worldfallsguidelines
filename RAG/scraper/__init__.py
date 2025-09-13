@@ -1,1 +1,0 @@
-# Scraper module for World Falls Guidelines RAG project

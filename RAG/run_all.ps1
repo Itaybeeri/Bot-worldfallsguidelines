@@ -1,12 +1,19 @@
-# PowerShell script to set up and run the RAG pipeline
+# PowerShell script to run the full RAG pipeline in order
 
-python -m venv .venv
+if (-not (Test-Path .venv)) {
+    python -m venv .venv
+}
 
-# Install requirements
-python.exe -m pip install -r requirements.txt
+Write-Host "Installing requirements..."
+. .venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 
-# Run the pipeline steps
-python.exe scraper/scraper.py
-python.exe scraper/process_pdf.py
-python.exe scraper/process_html.py
-python.exe build_rag.py
+Write-Host "Running all pipeline stages..."
+./run_0_scraper.ps1
+./run_1_data_preprocessing.ps1
+./run_2_Chunking.ps1
+./run_3_Embeddings.ps1
+./run_4_VectorDB_ingest.ps1
+
+Write-Host "Pipeline complete."

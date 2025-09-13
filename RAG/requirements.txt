@@ -1,5 +1,16 @@
+sentence-transformers
+qdrant-client
+numpy
+faiss-cpu
+tiktoken
+openai
+pandas
+sentence-transformers
+chromadb
 undetected-chromedriver
 requests
 beautifulsoup4
 PyMuPDF
+pdfplumber
 selenium
+
