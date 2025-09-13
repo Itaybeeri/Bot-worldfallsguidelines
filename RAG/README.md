@@ -1,118 +1,81 @@
-# RAG vector pipeline (staged)
+# World Falls Guidelines RAG Pipeline
 
-**Note:** This folder is only for building and updating the vector database (ChromaDB or FAISS) from your data. It does not contain any chatbot or LLM code. To build a chatbot or run LLM queries, use a separate folder/project that queries the vector DB built here.
+This folder contains everything needed to build the knowledge base (vector database) for the World Falls Guidelines chatbot. You only need to run this pipeline once, or whenever the source data changes. It builds a local vector database on your computer that the chatbot will use to answer questions.
 
-## Pipeline Stages
+---
 
-- **0. Scraping (`rag_0_Scraper`)**
+## How to Run (One-Time Setup)
 
-  - `scraper.py` downloads all HTML and PDF content from worldfallsguidelines.com using Selenium and undetected-chromedriver.
-  - All raw files are saved in the `data/` folder (HTML in `browser_text/`, PDFs in `browser_pdf/`).
-  - No files are modified or deleted; only new files are added.
+### Easiest: Run the full pipeline with one command
 
-- **1. Data Preprocessing (`rag_1_Data_preprocessing`)**
+If you're on Windows, you can run the entire process automatically:
 
-  - `prepare.py` recursively scans all `.txt` and `.pdf` files in the `data/` folder and subfolders.
-  - For `.txt` files: reads and normalizes the text.
-  - For `.pdf` files: extracts text using `pdfplumber` and normalizes it.
-  - Adds metadata (source path, file name) to each document.
-  - Outputs a single `documents.jsonl` file in `data/processed/`, containing one JSON object per document.
-
-- `2_Chunking` — chunker.py
-- `3_Embeddings` — embed.py
-- `4_VectorDB_ingest` — ingest_qdrant.py
-- `5_Index_tuning` — notes
-- `6_Retrieval` — retriever.py
-- `7_RAG_integration` — run_rag.py
-- `8_Monitoring` — notes
-
-## Using ChromaDB as your vector DB
-
-- Embeddings and metadata are ingested into ChromaDB with `4_VectorDB_ingest/ingest_chroma.py`.
-- The vector DB and all metadata are stored in `data/chroma_db/` (local folder, safe to delete/rebuild).
-- Retrieval is done with `6_Retrieval/chroma_retriever.py`.
-
-To install all dependencies:
-
-```sh
-pip install -r requirements.txt
+```powershell
+./run_all.ps1
 ```
 
-To ingest into ChromaDB:
+This script will create a virtual environment, install all requirements, and run every stage in order. When it finishes, your local vector database will be ready in the `data/` folder.
 
-```sh
-python rag/4_VectorDB_ingest/ingest_chroma.py
-```
+### Manual: Run each stage yourself
 
-To retrieve (example):
+If you prefer, you can run each step manually:
 
-```sh
-python rag/6_Retrieval/chroma_retriever.py
-```
-
-# RAG Project for worldfallsguidelines.com
-
-This project implements a Retrieval-Augmented Generation (RAG) pipeline that scrapes all data (HTML and publications) from [worldfallsguidelines.com](https://worldfallsguidelines.com), processes the data, and prepares it for use in a RAG system.
-
-## Project Structure
-
-- `config.py` — Stores all configuration parameters (website URL, data paths, etc.)
-- `scraper.py` — Downloads all HTML and PDF content from the website
-- `process_pdf.py` — Extracts text from downloaded PDFs
-- `process_html.py` — Extracts and cleans text from HTML files
-- `build_rag.py` — Placeholder for building the RAG pipeline using processed data
-- `requirements.txt` — Python dependencies
-- `data/` — Folder containing all downloaded and processed data
-
-## Setup Instructions
-
-1. **Clone the repository** (if needed):
-
-   ```sh
-   git clone <repo-url>
-   cd RAG
-   ```
-
-2. **Create a Python virtual environment:**
-
-   ```sh
-   python -m venv .venv
-   # On Windows PowerShell:
-   .venv\Scripts\Activate.ps1
-   # On Linux/Mac:
-   source .venv/bin/activate
-   ```
-
-3. **Install dependencies:**
-
+1. **Install dependencies:**
    ```sh
    pip install -r requirements.txt
    ```
-
-4. **Run the pipeline:**
-   - Scrape the website:
+2. **Run each stage in order:**
+   - Scrape the website and download all PDFs:
      ```sh
      python scraper.py
      ```
-   - Process PDFs:
+   - Process the downloaded PDFs:
      ```sh
      python process_pdf.py
      ```
-   - Process HTML files:
+   - Process the downloaded HTML files:
      ```sh
      python process_html.py
      ```
-   - Build the RAG pipeline:
+   - Build the RAG pipeline (chunking, embeddings, vector DB):
      ```sh
      python build_rag.py
      ```
 
+You do not need to run these steps again unless you want to update the knowledge base with new data.
+
+---
+
+## What does each step do?
+
+1. **Scraping** (`scraper.py`)
+
+   - Downloads all HTML and PDF content from the official World Falls Guidelines website.
+   - Saves raw files in the `data/` folder (HTML in `browser_text/`, PDFs in `browser_pdf/`).
+
+2. **PDF Processing** (`process_pdf.py`)
+
+   - Extracts and normalizes text from all downloaded PDF files.
+   - Adds metadata (source path, file name) to each document.
+
+3. **HTML Processing** (`process_html.py`)
+
+   - Extracts and cleans text from all downloaded HTML files.
+   - Adds metadata for each document.
+
+4. **RAG Pipeline Build** (`build_rag.py`)
+   - Chunks the processed documents into smaller pieces.
+   - Generates embeddings for each chunk.
+   - Ingests all chunks and embeddings into a local vector database (ChromaDB or FAISS).
+
+---
+
 ## Notes
 
-- All parameters (such as the website URL and data paths) are set in `config.py`.
-- The scripts are modular; you can run each step independently from the terminal.
-- **Chatbot/LLM logic is not included here.**
+- All configuration (such as website URL and data paths) is set in `config.py`.
+- The scripts are modular; you can run each step independently if needed.
+- This folder does **not** contain the chatbot code—see the main project or `ChatBot/README.md` for that.
 
-  ***
+---
 
-For any questions or improvements, feel free to contribute or open an issue.
+_For any questions or improvements, feel free to contribute or open an issue._
