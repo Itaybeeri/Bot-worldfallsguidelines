@@ -191,7 +191,8 @@ if send_clicked and user_input:
         "user": user_input,
         "answer": answer,
         "sources": sources,
-        "context": rag_context
+        "context": rag_context,
+        "full_context": full_context
     })
 
     # Clear the input box for the next question and rerun so answer is shown
@@ -205,9 +206,24 @@ if send_clicked and user_input:
 for entry in reversed(st.session_state.history):
     st.markdown(f"**You:** {entry['user']}")
     st.markdown(f"**Bot:** {entry['answer']}")
-    if "context" in entry and entry["context"]:
+    if "full_context" in entry and entry["full_context"]:
         with st.expander("Show context sent to LLM", expanded=False):
-            st.write(entry["context"])
+            # Format the context so each Q&A is labeled
+            import re
+            # Split on 'User:' and 'Bot:' to always start new lines for each
+            context = entry["full_context"]
+            # Find all Q&A pairs
+            qa_pairs = re.findall(r"User: (.*?) Bot: (.*?)(?=User: |$)", context, re.DOTALL)
+            formatted = []
+            for user, bot in qa_pairs:
+                formatted.append(f"**User:** {user.strip()}")
+                formatted.append(f"**Bot:** {bot.strip()}")
+                formatted.append("")  # Blank line between pairs
+            # If nothing matched, fallback to original context
+            if not formatted:
+                st.markdown(context)
+            else:
+                st.markdown("\n".join(formatted))
     st.markdown("---")
 
 
