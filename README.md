@@ -26,9 +26,16 @@ Falls are a major health concern for older adults worldwide. The World Falls Gui
 To try the chatbot, you first need to build the knowledge base (RAG) and then run the chatbot:
 
 1. **Build the knowledge base:**
-   - Go to the `RAG` folder and follow the instructions in `RAG/README.md` to process the website and PDFs. This step collects and organizes all the information the chatbot will use.
+   - Go to the `RAG` folder and follow the instructions in [`RAG/README.md`](RAG/README.md) to process the website and PDFs. This step collects and organizes all the information the chatbot will use.
 2. **Run the chatbot:**
-   - Once the knowledge base is ready, you can run the chatbot on your own computer. See the `ChatBot/README.md` for simple instructions on how to get started.
+   - Once the knowledge base is ready, you can run the chatbot on your own computer. See [`ChatBot/README.md`](ChatBot/README.md) for simple instructions on how to get started.
+
+---
+
+For full technical details and troubleshooting, see:
+
+- [`RAG/README.md`](RAG/README.md) — How the knowledge base is built and updated
+- [`ChatBot/README.md`](ChatBot/README.md) — How to run and use the chatbot
 
 ---
 

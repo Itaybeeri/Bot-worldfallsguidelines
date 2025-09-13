@@ -1,4 +1,4 @@
-# World Falls Guidelines
+# World Falls Guidelines ChatBot
 
 A Streamlit chatbot that uses Retrieval-Augmented Generation (RAG) with ChromaDB and OpenAI LLM for the World Falls Guidelines project.
 
