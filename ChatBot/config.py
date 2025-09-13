@@ -81,3 +81,6 @@ SAMPLE_QA = [
 RAG_VECTORDB_DIR = "../RAG/data/vectordb"
 # ChromaDB collection name
 RAG_VECTORDB_COLLECTION = "worldfalls"
+
+# Max number of previous Q&A pairs to use as conversational context
+MAX_HISTORY = 5

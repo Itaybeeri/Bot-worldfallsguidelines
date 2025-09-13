@@ -109,7 +109,6 @@ if "history" not in st.session_state:
 
 st.title("World Falls Guidelines")
 
-st.session_state.history = []  # Ensure history is initialized
 # Show a random sample question as a hint
 sample_qa = getattr(config, "SAMPLE_QA", [])
 sample_question = None
@@ -120,10 +119,12 @@ if sample_qa:
 
 
 
-# Use a persistent session state value for the input box
-if "user_input" not in st.session_state:
-    st.session_state.user_input = ""
-user_input = st.text_input("Ask a question:", value=st.session_state.user_input, key="user_input")
+
+
+# Use a separate session state variable for the input box
+if "user_input_value" not in st.session_state:
+    st.session_state.user_input_value = ""
+user_input = st.text_input("Ask a question:", value=st.session_state.user_input_value, key="user_input_box")
 
 
 
@@ -140,10 +141,12 @@ if send_clicked and user_input:
     rag_context = "\n\n".join(context_chunks)
     sources = [c["metadata"].get("source_path", "") for c in chunks]
 
-    # Build conversation history context
+
+    # Build conversation history context (use config.MAX_HISTORY)
+    max_history = getattr(config, "MAX_HISTORY", 5)
     history_context = ""
     if st.session_state.history:
-        for entry in st.session_state.history[-5:]:  # last 5 exchanges for context
+        for entry in st.session_state.history[-max_history:]:
             history_context += f"User: {entry['user']}\nBot: {entry['answer']}\n"
 
     # Combine RAG context and conversation history
@@ -191,9 +194,15 @@ if send_clicked and user_input:
         "context": rag_context
     })
 
+    # Clear the input box for the next question and rerun so answer is shown
+    st.session_state.user_input_value = ""
+    st.rerun()
+
 # --- Display Chat History ---
 
-for entry in st.session_state.history:
+
+# Show latest answer first (reverse order)
+for entry in reversed(st.session_state.history):
     st.markdown(f"**You:** {entry['user']}")
     st.markdown(f"**Bot:** {entry['answer']}")
     if "context" in entry and entry["context"]:
@@ -201,6 +210,8 @@ for entry in st.session_state.history:
             st.write(entry["context"])
     st.markdown("---")
 
-if st.button("Clear History"):
+
+# Move Clear History button to sidebar
+if st.sidebar.button("Clear Chat History"):
     st.session_state.history = []
     st.rerun()
