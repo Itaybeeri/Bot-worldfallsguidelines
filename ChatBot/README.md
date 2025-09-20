@@ -23,13 +23,23 @@ You can get an API key here: [https://platform.openai.com/account/api-keys](http
 - OpenAI LLM call with context and adjustable parameters
 - Source/citation display
 
-## Usage
+## Quick Start
+
+### Option 1: Run with Script (Recommended)
+
+```powershell
+./run_chatbot.ps1
+```
+
+This script will automatically install dependencies and launch the chatbot.
+
+### Option 2: Manual Setup
 
 1. Install requirements: `pip install -r requirements.txt`
-2. Run: `streamlit run app.py`
-3. Enter your OpenAI API key in the sidebar or set it in `config.py`
+2. Add your OpenAI API key to `openai_key.txt` (see above)
+3. Run: `streamlit run app.py`
 
 ## Notes
 
-- Make sure your vector DB is built and available in `../RAG/data/vectordb/`
+- Make sure your vector DB is built and available in `../RAG/data/vectordb/` before
 - This is a POC for demonstration only
